@@ -1,0 +1,14 @@
+
+.aboutGroup {
+    display: flex !important;
+    flex-direction: column;
+    margin-top: 5rem;
+}
+
+.ContentTitle {
+    font-size: 30px;
+    font-weight: bold;
+    display: block ruby;
+    color: var(--clr-primary-1);
+    margin-bottom: 3rem;
+}

@@ -1,0 +1,10 @@
+.myTechStack {
+    margin-top: 5rem;
+}
+
+.myTechStackGrid {
+    display: flex;
+    justify-content: center;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}

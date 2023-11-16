@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.titleContent{
+    color: var(--clr-grey-4);
+    cursor: pointer;
+}
+.headerparts{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 5rem;
+}
+.title{
+    display: flex;
+    gap: 5rem;
+    align-items: baseline;
+}
+.icons{
+    display: flex;
+    gap: 1rem;
+}
